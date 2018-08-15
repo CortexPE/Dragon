@@ -2,6 +2,7 @@ Impostazione
 Combattimento
 Movimento
 Giocatore
+Renderizzare
 Mondo
 Altro
 Crediti
