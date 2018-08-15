@@ -2,6 +2,7 @@ Configurer
 Combattre
 Mouvement
 Joueur
+Visionner
 Monde
 Autre
 Createurs
