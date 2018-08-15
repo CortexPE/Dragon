@@ -2,6 +2,7 @@ Instellingen
 Gevecht
 Beweging
 Speler
+Zichtbaar
 Wereld
 Anders
 Credits
